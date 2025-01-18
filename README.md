@@ -2,7 +2,9 @@
 
 I am an engineer with experience in maintenance operations in manufacturing plants and a backend developer. Over the past few years, I have been focusing on programming in **PHP** and **Java**. My interests span both IT technologies and industrial automation.
 
-Currently, I am diving deeper into application architecture design and Domain-Driven Design (DDD) to create more scalable and efficient solutions.
+Currently, I am diving deeper into two topics: 
+- Artificial Inteligence and Machine Learning basics including mathematics principles related with this topics,
+- application architecture design and Domain-Driven Design (DDD) to create more scalable and efficient solutions.
 
 ## What I Do
 
